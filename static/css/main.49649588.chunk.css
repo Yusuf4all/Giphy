@@ -1,0 +1,2 @@
+#images ul{list-style:none;margin:0;padding:0;display:flex;justify-content:space-between;flex-wrap:wrap}#images li{width:15%;margin:5px}#images ul img{border-radius:50%;border:2px solid #fff;height:200px;width:100%;-webkit-transition:1s;transition:1s}img:hover{-webkit-transform:scale(.9) translateY(0);transform:scale(.9) translateY(0)}@media screen and (max-width:768px){#images li{width:20%;margin:2px}#images ul img{height:80px}}body{background-color:#282c34}
+/*# sourceMappingURL=main.49649588.chunk.css.map */
